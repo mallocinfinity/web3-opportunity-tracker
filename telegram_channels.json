@@ -1,0 +1,155 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "username": "cryptoBD",
+      "link": "https://t.me/cryptoBD",
+      "category": "marketing",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:39:27.037019",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "username": "web3jobs",
+      "link": "https://t.me/web3jobs",
+      "category": "jobs",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:39:27.089906",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "username": "defijobs",
+      "link": "https://t.me/defijobs",
+      "category": "jobs",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:39:27.132112",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "username": "cryptomarketing",
+      "link": "https://t.me/cryptomarketing",
+      "category": "marketing",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:39:27.184847",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "username": "DAOjobs",
+      "link": "https://t.me/DAOjobs",
+      "category": "jobs",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:39:27.221292",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "username": "ethereumjobs",
+      "link": "https://t.me/ethereumjobs",
+      "category": "jobs",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:39:27.257060",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "username": "venture_dao",
+      "link": "https://t.me/venture_dao",
+      "category": "dao",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:40:41.125512",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "username": "NFTfounders",
+      "link": "https://t.me/NFTfounders",
+      "category": "nft",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:40:41.165910",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "username": "defi_daily",
+      "link": "https://t.me/defi_daily",
+      "category": "defi",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:40:41.214609",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "username": "cryptocompanies",
+      "link": "https://t.me/cryptocompanies",
+      "category": "companies",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:40:41.260725",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "username": "coinmarketcap",
+      "link": "https://t.me/coinmarketcap",
+      "category": "crypto",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:42:28.350662",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "username": "cointelegraph",
+      "link": "https://t.me/cointelegraph",
+      "category": "news",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:42:28.386715",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "username": "theblocknews",
+      "link": "https://t.me/theblocknews",
+      "category": "news",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:42:28.421672",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "username": "digitalcurrencygroup",
+      "link": "https://t.me/digitalcurrencygroup",
+      "category": "vc",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:42:28.456342",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "username": "blockchainhub",
+      "link": "https://t.me/blockchainhub",
+      "category": "dao",
+      "member_count": "N/A",
+      "description": "",
+      "added_at": "2026-02-19T00:42:28.488412",
+      "status": "pending"
+    }
+  ],
+  "last_scrape": "2026-02-19T00:42:28.488437"
+}

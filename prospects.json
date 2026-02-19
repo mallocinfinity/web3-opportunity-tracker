@@ -1,0 +1,128 @@
+{
+  "last_updated": "2026-02-19T00:40:49.931271",
+  "prospects": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "role": "Head of BD",
+      "company": "MoonPay",
+      "email": "sarah.chen@moonpay.com",
+      "source": "LinkedIn",
+      "notes": "Crypto payment gateway, major player",
+      "priority": "high",
+      "status": "new",
+      "created_at": "2026-02-19T00:39:33.631425",
+      "updated_at": "2026-02-19T00:39:33.631451"
+    },
+    {
+      "id": 2,
+      "name": "Mike Novogratz",
+      "role": "Founder",
+      "company": "Galaxy Digital",
+      "email": "info@galaxydigital.com",
+      "source": "Web",
+      "notes": "Crypto investment firm",
+      "priority": "medium",
+      "status": "new",
+      "created_at": "2026-02-19T00:39:33.690577",
+      "updated_at": "2026-02-19T00:39:33.690615"
+    },
+    {
+      "id": 3,
+      "name": "Arianna Huffington",
+      "role": "BD Lead",
+      "company": "Coinbase",
+      "email": "arianna@coinbase.com",
+      "source": "LinkedIn",
+      "notes": "Major exchange",
+      "priority": "high",
+      "status": "new",
+      "created_at": "2026-02-19T00:39:33.751510",
+      "updated_at": "2026-02-19T00:39:33.751540"
+    },
+    {
+      "id": 4,
+      "name": "Sam Bankman-Fried",
+      "role": "CEO",
+      "company": "FTX (new)",
+      "email": "contact@ftx.com",
+      "source": "Web",
+      "notes": "Exchange",
+      "priority": "medium",
+      "status": "new",
+      "created_at": "2026-02-19T00:39:33.811568",
+      "updated_at": "2026-02-19T00:39:33.811597"
+    },
+    {
+      "id": 5,
+      "name": "Daniel Lim",
+      "role": "CEO",
+      "company": "Bitget",
+      "email": "daniel@bitget.com",
+      "source": "Web",
+      "notes": "Exchange, major Asian volume",
+      "priority": "high",
+      "status": "new",
+      "created_at": "2026-02-19T00:40:49.693341",
+      "updated_at": "2026-02-19T00:40:49.693370"
+    },
+    {
+      "id": 6,
+      "name": "Rachel Wu",
+      "role": "BD Director",
+      "company": "OKX",
+      "email": "rachel.wu@okx.com",
+      "source": "LinkedIn",
+      "notes": "Exchange BD lead",
+      "priority": "high",
+      "status": "new",
+      "created_at": "2026-02-19T00:40:49.755976",
+      "updated_at": "2026-02-19T00:40:49.755996"
+    },
+    {
+      "id": 7,
+      "name": "Chris Dixon",
+      "role": "Partner",
+      "company": "a16z Crypto",
+      "email": "cdixon@a16z.com",
+      "source": "Web",
+      "notes": "Top crypto VC",
+      "priority": "medium",
+      "status": "new",
+      "created_at": "2026-02-19T00:40:49.805555",
+      "updated_at": "2026-02-19T00:40:49.805577"
+    },
+    {
+      "id": 8,
+      "name": "Spencer Boggess",
+      "role": "Founder",
+      "company": "Dapper Labs",
+      "email": "spencer@dapperlabs.com",
+      "source": "Web",
+      "notes": "Crypto games/NFTs",
+      "priority": "medium",
+      "status": "new",
+      "created_at": "2026-02-19T00:40:49.870448",
+      "updated_at": "2026-02-19T00:40:49.870475"
+    },
+    {
+      "id": 9,
+      "name": "Alexis Ohanian",
+      "role": "Founder",
+      "company": "Seven Seven Six",
+      "email": "alexis@776.com",
+      "source": "Web",
+      "notes": "VC with crypto focus",
+      "priority": "medium",
+      "status": "new",
+      "created_at": "2026-02-19T00:40:49.931212",
+      "updated_at": "2026-02-19T00:40:49.931265"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "contacted": 0,
+    "replied": 0,
+    "meetings": 0
+  }
+}

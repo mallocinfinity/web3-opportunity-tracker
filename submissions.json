@@ -1,0 +1,30 @@
+{
+  "last_check": "2026-02-16T23:19:54.007554",
+  "opportunities": [
+    {
+      "title": "Web3 Hackathon 2025 - Belgrade",
+      "description": "Solidity Blockchain Dev hackathon, May 21-30, free for all students",
+      "url": "https://bc.elab.fon.bg.ac.rs/hackathon/",
+      "source": "dev.events",
+      "date": "2026-02-16T23:20:27.619207",
+      "priority": "high"
+    },
+    {
+      "title": "DoraHacks Web3/AI Hackathons",
+      "description": "Ongoing hackathons in Crypto/Web3 category, virtual and IRL options",
+      "url": "https://dorahacks.io/hackathon",
+      "source": "dorahacks",
+      "date": "2026-02-16T23:20:27.727694",
+      "priority": "medium"
+    },
+    {
+      "title": "Free Web3 Masterclass - Feb 2026",
+      "description": "Free blockchain & NFTs masterclass by 7hubent",
+      "url": "https://www.7hubent.com.ng/2026/02/free-web3-masterclass-understand.html",
+      "source": "education",
+      "date": "2026-02-17T00:00:19.879342",
+      "priority": "medium"
+    }
+  ],
+  "submitted": []
+}
